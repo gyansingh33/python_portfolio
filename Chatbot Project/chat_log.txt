@@ -1,0 +1,13 @@
+INFO:root:Agent Name: Taylor
+INFO:root:User Name: Gyan Singh Pun
+INFO:root:Agent Name: Alex
+INFO:root:User Name: Gyan
+INFO:root:Question: give me info about sports
+INFO:root:Response: The sports complex is open from 6 AM to 10 PM.
+INFO:root:Random disconnection occurred.
+INFO:root:Agent Name: Taylor
+INFO:root:User Name: gyan
+INFO:root:Question: give me info about sports
+INFO:root:Response: The sports complex is open from 6 AM to 10 PM.
+INFO:root:Question: bye
+INFO:root:Session ended by user.
